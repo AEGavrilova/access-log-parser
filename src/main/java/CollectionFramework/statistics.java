@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class Statistics {
+public class statistics {
     private static final Set<String> existingPages = new HashSet<>();
 
     private static final Map<String, Integer> osFrequency = new HashMap<>();
